@@ -15,3 +15,6 @@ const absolute = path.resolve(__dirname , "/Basic Programs","Content","subfolder
 console.log(absolute);
 
 
+console.log(path);
+
+
