@@ -1,2 +1,3 @@
-
-const second = readFileSync('./content/subfolder/second.txt', 'utf-8');
+res.end(`
+        <h1>OOps You Got Lost !</h1>
+        `);
